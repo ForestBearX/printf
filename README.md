@@ -18,7 +18,7 @@ This project is a custom implementation of the `printf` function in C, created a
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/ft_printf.git
+   git clone https://github.com/forestbearx/ft_printf.git
    cd ft_printf
    ```
 
